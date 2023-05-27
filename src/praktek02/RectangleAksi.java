@@ -5,7 +5,8 @@ public class RectangleAksi {
         
         r1.Panjang = 9;
         r1.Lebar = 3;
-       
+        
+        r1.cetakInfo();
         
     }
 }
